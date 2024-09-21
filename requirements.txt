@@ -1,0 +1,9 @@
+sys
+pyfiglet
+tabulate
+csv
+argparse
+requests
+json
+tabulate
+colorama
