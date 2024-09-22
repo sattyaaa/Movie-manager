@@ -25,7 +25,7 @@ Modes -> 's' or 'search' and 'w' or 'watchlist'
 
 
 # Demo
-### [YouTube Video]()
+### [YouTube Video](https://youtu.be/o1HGtdScq2o?si=jkgkn_Q6_CQiLD_E)
 
 ## Preview of search mode
 ![Screenshot of search mode](demo/search1.png)
